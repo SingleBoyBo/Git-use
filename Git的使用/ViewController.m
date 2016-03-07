@@ -19,6 +19,10 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"为什么");
+    
+    self.view.backgroundColor = [UIColor magentaColor];
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
