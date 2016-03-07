@@ -26,6 +26,8 @@
     //分支
     //第一次添加分支
     
+    
+    NSLog(@"添加第一个分支");
 }
 
 - (void)didReceiveMemoryWarning {
